@@ -9,8 +9,7 @@ I am a dedicated developer with experience in application development, software 
 
 - 🔧 Skilled in **Java**, **Spring Boot**, **Angular**, **React**, **SQL**
 - 🛠️ Proficient with **CI/CD pipelines**, **Jenkins**, **MariaDB**, **Grafana**
-- 🌱 Currently exploring advanced **UI/UX development** and **DevOps tools**
-
+-   Currently pursuing Masters in Information System at NJIT
 ---
 
 ## 🚀 Projects
