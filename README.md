@@ -31,8 +31,8 @@ Streamlined a CI/CD pipeline for faster deployment and bug fixes, reducing turna
 
 ## 📫 Let's Connect!
 - 📧 [leela3498@gmail.com](mailto:leela3498@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🌐 [Portfolio](https://your-portfolio-site.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saileelakuragayala/)
+- 🌐 [Portfolio](https://kleela3498.github.io/Leela-Portfolio/)
 
 ---
 
