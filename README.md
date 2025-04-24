@@ -7,7 +7,7 @@
 ## 💻 About Me
 I am a dedicated developer with experience in application development, software maintenance, and team collaboration. I enjoy working on projects that challenge my problem-solving skills and allow me to contribute to impactful solutions.
 
-- 🔧 Skilled in **Java**, **Spring Boot**, **Angular**, **React**, **SQL**
+- 🔧 Skilled in **Python**, **Java**, **Spring Boot**, **Angular**, **React**, **SQL**
 - 🛠️ Proficient with **CI/CD pipelines**, **Jenkins**, **MariaDB**, **Grafana**
 -   Currently pursuing Masters in Information System at NJIT
 ---
@@ -30,7 +30,7 @@ Streamlined a CI/CD pipeline for faster deployment and bug fixes, reducing turna
 ---
 
 ## 📫 Let's Connect!
-- 📧 [leela3498@gmail.com](mailto:leela3498@gmail.com)  
+- 📧 [leela3498@gmail.com](mailto:saileela3498@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/saileelakuragayala/)
 - 🌐 [Portfolio](https://kleela3498.github.io/Leela-Portfolio/)
 
