@@ -1,4 +1,4 @@
-# 👋 Hi, I'm K Sai Leela  
+# 👋 Hi, I'm Kuragayala Sai Leela  
 
 🚀 **Application Developer** | 🖥️ Building efficient and scalable software solutions
 
