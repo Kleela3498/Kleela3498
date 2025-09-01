@@ -59,7 +59,6 @@ I love designing systems that **scale at global traffic**, improve performance, 
 ---
 
 ## 📊 GitHub Stats
-![Leela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kleela3498&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleela3498&layout=compact&theme=radical)  
 
 ---
