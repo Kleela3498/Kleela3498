@@ -55,7 +55,6 @@ I love designing systems that **scale at global traffic**, improve performance, 
 ## 🏆 Achievements
 - 🥇 **DBS Tech India Hackathon Winner** — 1st place out of **600+ participants**.  
 - 🏅 **Super Techie Award** — Recognized for contributions to DBS Murex Testing Environment Platform.  
-- 🌍 Presented scalable system design approaches in **international collaborations**.  
 
 ---
 
