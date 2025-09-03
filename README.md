@@ -16,7 +16,7 @@ I love designing systems that **scale at global traffic**, improve performance, 
 - 📊 Databases: **PostgreSQL, MongoDB, SQL, Redis**  
 - 📐 System Design: **Microservices, Distributed Systems, Scalable Architecture**  
 
-🎓 Currently pursuing **M.S. in Information Systems @ NJIT (GPA: 3.65)**  
+🎓 **M.S. in Information Systems @ NJIT (GPA: 3.65)**  
 📍 Based in **New York / Open to relocation**  
 
 ---
