@@ -66,7 +66,7 @@ I love designing systems that **scale at global traffic**, improve performance, 
 ## 🌐 Let’s Connect!
 - 📧 [saileelakuragayala@gmail.com](mailto:saileelakuragayala@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/saileelakuragayala/)  
-- 🌍 [Portfolio](https://kleela3498.github.io/Leela-Portfolio/)  
+- 🌍 [Portfolio](https://saileelakuragayala.dev)  
 - 💻 [GitHub Projects](https://github.com/Kleela3498?tab=repositories)  
 
 ---
