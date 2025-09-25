@@ -6,9 +6,9 @@
 
 ---
 
-## 🌟 About Me
-I’m a **Software Engineer with 2+ years of experience** building **distributed systems, backend services, and cloud-native solutions**.  
-I love designing systems that **scale at global traffic**, improve performance, and solve challenging engineering problems.  
+## 🌟 About Me  
+I’m a **Software Engineer with 4+ years of experience** building **distributed systems, backend services, and cloud-native applications**.  
+I specialize in designing systems that **scale to millions of users**, optimize performance, and deliver measurable business impact.  
 
 - 🔧 Languages: **Python, Java, JavaScript, TypeScript, C++**  
 - 🛠️ Frameworks: **Spring Boot, Django, Flask, React, Angular, Node.js**  
@@ -21,49 +21,58 @@ I love designing systems that **scale at global traffic**, improve performance, 
 
 ---
 
-## 🚀 Experience Highlights
-### 💼 **DBS Bank Ltd. — Software Development Engineer** *(Aug 2022 – Nov 2023)*  
-- Built **multi-tiered test automation platform** handling **50,000+ distributed workflows** with real-time monitoring.  
-- Engineered **Redis caching** layers, reducing **PostgreSQL query loads by 60%**, enabling real-time analytics for customer-facing apps under heavy traffic.  
-- Improved debugging efficiency by **35%** with distributed traceability systems.  
-- Mentored junior engineers in **Agile/Scrum**, reducing story creation inconsistencies by **30%**.  
+## 🚀 Experience Highlights  
+
+### 💼 **DBS Bank Ltd. — Software Development Engineer** *(Aug 2022 – Jun 2023)*  
+- Built a **multi-tiered automation platform** orchestrating **50,000+ distributed workflows**, boosting QA reliability.  
+- Engineered **distributed indexing & traceability systems**, cutting debugging latency by **35%** in production.  
+- Implemented **Redis caching** to reduce **PostgreSQL query loads by 60%**, enabling **real-time analytics** at scale.  
+- Mentored junior engineers in Agile/Scrum, improving story quality and reducing inconsistencies by **30%**.  
 
 ---
 
-### 💼 **Ericsson Inc. — Software Development Engineer Intern** *(Mar 2022 – Aug 2022)*  
-- Refactored monoliths into **scalable microservices**, cutting feature dev cycles by **20%**.  
-- Enhanced UI dashboards with **React & JS**, boosting responsiveness and accessibility → higher customer engagement.  
-- Integrated **Jest & Cypress** into CI/CD pipelines → automated test coverage up **40%**, regression bugs down **25%**.  
+### 💼 **Ericsson Inc. — Associate Software Engineer Intern** *(Mar 2022 – Aug 2022)*  
+- Refactored monoliths into **microservices**, improving maintainability and cutting dev cycles by **20%**.  
+- Redesigned dashboards in **React/JS**, improving responsiveness and accessibility → higher customer engagement.  
+- Integrated **Jest & Cypress** into CI/CD → automated test coverage up **40%**, regression bugs down **25%**.  
 
 ---
 
-### 💼 **Creatik Solutions — Software Engineering Intern** *(2018 – 2019)*  
-- Optimized frontend performance (lazy loading, minification) → improved mobile page speed scores **40 → 75**.  
-- Built modular UI components with stakeholder-driven design, reducing bounce rates by **22%**.
+### 💼 **Cybrowse Digital Solutions — Software Engineer** *(Jan 2020 – Feb 2022)*  
+- Developed **backend services in Java + Spring Boot**, ensuring scalable and reliable production systems.  
+- Built **RESTful APIs** powering client dashboards, improving UX responsiveness and data flow.  
+- Migrated to **microservices architecture**, set up **CI/CD pipelines with Jenkins & Git**, automating releases and boosting deployment efficiency.  
 
 ---
 
-## 📌 Projects
+### 💼 **Creatik Solutions — Software Engineering Intern** *(Nov 2018 – May 2019)*  
+- Built **modular UI components** with stakeholder-driven design → reduced bounce rate by **22%**.  
+- Enhanced frontend performance (lazy loading, minification, feature toggles) → boosted mobile page speed.  
+
+---
+
+## 📌 Projects  
+
 ### 📊 [StockSentiment](https://github.com/Kleela3498/stockprice)  
-*AI-powered Django web app for stock analysis*  
-- Processes **50,000+ news articles** with **NLP sentiment pipelines** to forecast stock trends with **60% accuracy**.  
-- Built with **Django, yfinance, NewsAPI, VADER, Plotly, OpenRouter LLM**.  
-- Deployed full-stack app with interactive visualizations for real-time market insights.  
+*AI-powered Flask/Django web app for stock analysis*  
+- Processes **50,000+ news articles** with NLP pipelines to forecast stock trends with **60% accuracy**.  
+- Tech: **Flask, yfinance, NewsAPI, VADER, Plotly, OpenRouter (LLM)**.  
+- Deploys interactive visualizations for **real-time financial insights**.  
 
 ---
 
-## 🏆 Achievements
-- 🥇 **DBS Tech India Hackathon Winner** — 1st place out of **600+ participants**.  
-- 🏅 **Super Techie Award** — Recognized for contributions to DBS Murex Testing Environment Platform.  
+## 🏆 Achievements  
+- 🥇 **DBS Tech Hackathon Winner** — 1st place among **600+ participants**.  
+- 🏅 **Super Techie Award** — Recognized for contributions to DBS Murex Testing Platform.  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleela3498&layout=compact&theme=radical)  
 
 ---
 
-## 🌐 Let’s Connect!
+## 🌐 Let’s Connect!  
 - 📧 [saileelakuragayala@gmail.com](mailto:saileelakuragayala@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/saileelakuragayala/)  
 - 🌍 [Portfolio](https://saileelakuragayala.dev)  
@@ -72,5 +81,3 @@ I love designing systems that **scale at global traffic**, improve performance, 
 ---
 
 ⭐️ *"Engineering is not just about writing code — it’s about scaling ideas into impact."*  
-
-
