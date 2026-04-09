@@ -17,7 +17,7 @@ I specialize in designing systems that **scale to millions of users**, optimize 
 - 📐 System Design: **Microservices, Distributed Systems, Scalable Architecture**  
 
 🎓 **M.S. in Information Systems @ NJIT (GPA: 3.65)**  
-📍 Based in **New York / Open to relocation**  
+📍 Based in **Los Angeles, CA / Open to relocation**  
 
 ---
 
