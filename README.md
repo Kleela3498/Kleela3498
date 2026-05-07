@@ -1,83 +1,117 @@
-# 👋 Hi, I'm Kuragayala Sai Leela  
+# 👋 Hi, I'm Sai Leela Kuragayala  
 
-💻 **Software Engineer | Full-Stack & Distributed Systems Developer**  
-🚀 Crafting **scalable, high-traffic systems** with Python, Java, AWS, and modern web frameworks  
-🏆 Hackathon Winner | Cloud-Native Builder | Performance Optimizer  
+💻 **Full-Stack Software Engineer | AI & Distributed Systems Engineer**  
+🚀 Building scalable backend systems, AI-powered applications, and enterprise-grade platforms  
+🏆 Hackathon Winner | Cloud-Native Developer | Performance Optimizer  
 
 ---
 
 ## 🌟 About Me  
-I’m a **Software Engineer with 4+ years of experience** building **distributed systems, backend services, and cloud-native applications**.  
-I specialize in designing systems that **scale to millions of users**, optimize performance, and deliver measurable business impact.  
 
-- 🔧 Languages: **Python, Java, JavaScript, TypeScript, C++**  
-- 🛠️ Frameworks: **Spring Boot, Django, Flask, React, Angular, Node.js**  
-- ☁️ Cloud & DevOps: **AWS, Docker, Kubernetes, Redis, CI/CD pipelines**  
-- 📊 Databases: **PostgreSQL, MongoDB, SQL, Redis**  
-- 📐 System Design: **Microservices, Distributed Systems, Scalable Architecture**  
+I’m a **Full-Stack Software Engineer with 5+ years of experience** building scalable web applications, distributed systems, AI-driven workflows, and cloud-native platforms.  
 
-🎓 **M.S. in Information Systems @ NJIT (GPA: 3.65)**  
-📍 Based in **Los Angeles, CA / Open to relocation**  
+I specialize in designing systems that are:
+- ⚡ High-performance  
+- ☁️ Cloud-ready  
+- 📈 Scalable for enterprise workloads  
+- 🤖 AI-powered and automation-focused  
 
----
+I enjoy solving complex engineering problems through clean architecture, observability, performance optimization, and scalable backend development.
 
-## 🚀 Experience Highlights  
+- 🔧 Languages: **Python, Java, JavaScript, C++, SQL**  
+- 🛠️ Frameworks: **Django, Flask, Spring Boot, React, Angular, Node.js**  
+- ☁️ Cloud & AI: **AWS, Azure, OpenAI API, RAG Pipelines, Vector Databases**  
+- ⚙️ DevOps: **Docker, Kubernetes, CI/CD, Linux, Monitoring & Observability**  
+- 🗄️ Databases: **PostgreSQL, MongoDB, SQLite, NoSQL**  
+- 🧪 Testing: **PyTest, JUnit, Jest, Cypress**  
 
-### 💼 **DBS Bank Ltd. — Software Development Engineer** *(Aug 2022 – Jun 2023)*  
-- Built a **multi-tiered automation platform** orchestrating **50,000+ distributed workflows**, boosting QA reliability.  
-- Engineered **distributed indexing & traceability systems**, cutting debugging latency by **35%** in production.  
-- Implemented **Redis caching** to reduce **PostgreSQL query loads by 60%**, enabling **real-time analytics** at scale.  
-- Mentored junior engineers in Agile/Scrum, improving story quality and reducing inconsistencies by **30%**.  
-
----
-
-### 💼 **Ericsson Inc. — Associate Software Engineer Intern** *(Mar 2022 – Aug 2022)*  
-- Refactored monoliths into **microservices**, improving maintainability and cutting dev cycles by **20%**.  
-- Redesigned dashboards in **React/JS**, improving responsiveness and accessibility → higher customer engagement.  
-- Integrated **Jest & Cypress** into CI/CD → automated test coverage up **40%**, regression bugs down **25%**.  
+🎓 **Master of Science in Information Systems — NJIT**  
+📍 Based in **Los Angeles, California**  
 
 ---
 
-### 💼 **Cybrowse Digital Solutions — Software Engineer** *(Jan 2020 – Feb 2022)*  
-- Developed **backend services in Java + Spring Boot**, ensuring scalable and reliable production systems.  
-- Built **RESTful APIs** powering client dashboards, improving UX responsiveness and data flow.  
-- Migrated to **microservices architecture**, set up **CI/CD pipelines with Jenkins & Git**, automating releases and boosting deployment efficiency.  
+# 🚀 Professional Experience  
+
+## 💼 S&S Fashions Inc. — AI Software Engineer  
+📅 *Aug 2025 – Present*  
+
+- Designed and deployed a **Python-based automation platform** integrating ERP, CRM, inventory, and order-management systems across **15+ enterprise workflows**.  
+- Built **real-time analytics dashboards** and automated reporting pipelines using **Python + PostgreSQL**.  
+- Introduced **AI-assisted development workflows**, scalable architecture standards, and evaluation pipelines for future engineering scalability.  
+- Improved operational visibility across procurement, vendor, and sales systems through centralized automation.  
 
 ---
 
-### 💼 **Creatik Solutions — Software Engineering Intern** *(Nov 2018 – May 2019)*  
-- Built **modular UI components** with stakeholder-driven design → reduced bounce rate by **22%**.  
-- Enhanced frontend performance (lazy loading, minification, feature toggles) → boosted mobile page speed.  
+## 💼 DBS Bank Ltd. — Application Developer  
+📅 *Aug 2022 – Jun 2023*  
+
+- Developed features for an enterprise-scale automation platform orchestrating **50,000+ workflows**.  
+- Built distributed indexing and traceability systems reducing debugging latency by **35%**.  
+- Implemented **Redis caching**, reducing PostgreSQL query load by **60%** while improving analytics performance.  
+- Mentored junior engineers through Agile/Scrum workflows and technical reviews, reducing development rework by **30%**.  
 
 ---
 
-## 📌 Projects  
+## 💼 Ericsson Inc. — Associate Software Engineer  
+📅 *Feb 2022 – Aug 2022*  
 
-### 📊 [StockSentiment](https://github.com/Kleela3498/stockprice)  
-*AI-powered Flask/Django web app for stock analysis*  
-- Processes **50,000+ news articles** with NLP pipelines to forecast stock trends with **60% accuracy**.  
-- Tech: **Flask, yfinance, NewsAPI, VADER, Plotly, OpenRouter (LLM)**.  
-- Deploys interactive visualizations for **real-time financial insights**.  
-
----
-
-## 🏆 Achievements  
-- 🥇 **DBS Tech Hackathon Winner** — 1st place among **600+ participants**.  
-- 🏅 **Super Techie Award** — Recognized for contributions to DBS Murex Testing Platform.  
+- Redesigned internal dashboards using **React, JavaScript, and CSS**, improving responsiveness and accessibility.  
+- Refactored monolithic systems into modular **Python microservices** improving maintainability and reducing regression defects.  
+- Enhanced CI/CD pipelines using **PyTest automation** and JFrog Artifactory for improved release traceability.  
 
 ---
 
-## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleela3498&layout=compact&theme=radical)  
+## 💼 I-Giants Inc. — Application Developer  
+📅 *Oct 2019 – Feb 2022*  
+
+- Designed API-driven middleware to standardize communication across distributed systems and enterprise workflows.  
+- Implemented structured logging and observability solutions improving production debugging and operational stability.  
+- Improved backend reliability and reduced debugging latency by **35%** through scalable middleware architecture.  
 
 ---
 
-## 🌐 Let’s Connect!  
-- 📧 [saileelakuragayala@gmail.com](mailto:saileelakuragayala@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/saileelakuragayala/)  
-- 🌍 [Portfolio](https://saileelakuragayala.dev)  
-- 💻 [GitHub Projects](https://github.com/Kleela3498?tab=repositories)  
+## 💼 Creatik Solutions — Web Development Intern  
+📅 *Nov 2018 – May 2019*  
+
+- Built modular UI components using **HTML5, Tailwind CSS, and JavaScript** for multi-cloud dashboard platforms.  
+- Improved frontend performance through lazy loading, code minification, and feature optimization.  
+- Reduced bounce rate by **22%** while improving mobile responsiveness and page speed.  
 
 ---
 
-⭐️ *"Engineering is not just about writing code — it’s about scaling ideas into impact."*  
+# 📌 Technical Interests  
+
+- 🤖 AI Automations & Multi-Agent Systems  
+- ☁️ Cloud-Native Architectures  
+- ⚡ High-Performance Backend Systems  
+- 📊 Distributed Systems & Observability  
+- 🔍 RAG Pipelines & AI Infrastructure  
+- 🚀 Scalable REST APIs & Microservices  
+
+---
+
+# 🏆 Achievements  
+
+🥇 **Development Bank of Singapore Hackathon Winner**  
+Secured 1st place among **1,000+ participants** in a national-level web application hackathon.  
+
+🏅 **Super Techie Award**  
+Recognized for exceptional technical contributions and improving workflow reliability and system efficiency.  
+
+---
+
+# 📊 GitHub Stats  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleela3498&layout=compact&theme=radical)
+
+---
+
+# 🌐 Let’s Connect!  
+
+📧 **Email:** saileelakuragayala@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/saileelakuragayala/  
+💻 **GitHub:** https://github.com/Kleela3498  
+
+---
+
+⭐️ *"Engineering scalable systems that transform ideas into reliable real-world impact."*
