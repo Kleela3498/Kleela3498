@@ -61,7 +61,7 @@ I enjoy solving complex engineering problems through clean architecture, observa
 
 ---
 
-## 💼 I-Giants Inc. — Application Developer  
+## 💼 I Giants Inc. — Application Developer  
 📅 *Oct 2019 – Feb 2022*  
 
 - Designed API-driven middleware to standardize communication across distributed systems and enterprise workflows.  
